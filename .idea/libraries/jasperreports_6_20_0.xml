@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="jasperreports-6.20.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jasperreports-annotation-processors-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jasperreports-castor-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jasperreports-chart-customizers-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jasperreports-chart-themes-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jasperreports-custom-visualization-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jasperreports-functions-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jasperreports-javaflow-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jasperreports-metadata-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jasperreports-fonts-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jasperreports-4.7.1/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jasperreports-4.7.1/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-collections4-4.4-tests.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-collections4-4.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-beanutils-1.9.4-tests.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/spring-beans-5.3.23.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/spring-core-5.3.23.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/spring-jcl-5.3.23.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/net.tascalate.javaflow.api-2.7.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/slf4j-api-1.8.0-beta4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-collections4-4.4-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-beanutils-1.9.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-collections4-4.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-collections4-4.4-test-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-beanutils-1.9.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JasperReports Libraries/commons-beanutils-1.9.4-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

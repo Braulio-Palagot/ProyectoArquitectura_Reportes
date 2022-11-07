@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="view.Foro">
+  <grid id="27dc6" binding="pnlForo" layout-manager="GridLayoutManager" row-count="6" column-count="12" same-size-horizontally="false" same-size-vertically="false" hgap="8" vgap="8">
+    <margin top="40" left="40" bottom="40" right="40"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="a791" binding="imgEvento" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="12" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <component id="51ca0" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Nombre:"/>
+        </properties>
+      </component>
+      <component id="ee1e5" class="javax.swing.JLabel" binding="lblNombreEvento">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="91804" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Dirección:"/>
+        </properties>
+      </component>
+      <component id="232e6" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Fecha:"/>
+        </properties>
+      </component>
+      <component id="6fb4d" class="javax.swing.JLabel" binding="lblDireccionEvento">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="11" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="ad103" class="javax.swing.JLabel" binding="lblFechaEvento">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="11" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="787a1" class="javax.swing.JButton" binding="bttnVerMas">
+        <constraints>
+          <grid row="4" column="11" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ver Más"/>
+        </properties>
+      </component>
+      <grid id="c1935" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="0">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="12" vsize-policy="1" hsize-policy="1" anchor="0" fill="1" indent="1" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <opaque value="false"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="aad93" class="javax.swing.JLabel">
+            <constraints/>
+            <properties>
+              <text value="Evento "/>
+            </properties>
+          </component>
+          <component id="701bd" class="javax.swing.JLabel" binding="lblEventoActual">
+            <constraints/>
+            <properties>
+              <text value="x"/>
+            </properties>
+          </component>
+          <component id="92bdd" class="javax.swing.JLabel">
+            <constraints/>
+            <properties>
+              <text value=" de "/>
+            </properties>
+          </component>
+          <component id="136c4" class="javax.swing.JLabel" binding="lblTotalEventos">
+            <constraints/>
+            <properties>
+              <text value="y    "/>
+            </properties>
+          </component>
+          <component id="1d2f7" class="javax.swing.JButton" binding="bttnAnterior">
+            <constraints/>
+            <properties>
+              <text value="&lt;Anterior"/>
+            </properties>
+          </component>
+          <component id="4f5a9" class="javax.swing.JButton" binding="bttnSiguiente">
+            <constraints/>
+            <properties>
+              <text value="Siguiente&gt;"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
